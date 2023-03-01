@@ -1,0 +1,11 @@
+{
+  "event_bucket": "rd-bucket1",
+  "vpc_cidr": "192.168.0.0/16",
+  "s3_ap_name": "event-ap",
+  "s3_olap_name": "event-olap",
+  "availability-zones:account=466323227181:region=ap-southeast-1": [
+    "ap-southeast-1a",
+    "ap-southeast-1b",
+    "ap-southeast-1c"
+  ]
+}
